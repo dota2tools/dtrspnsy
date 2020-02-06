@@ -6,7 +6,11 @@ DOTA 2 responses search utility
 
 `pip install dtrspnsy`
 # Usage 
+## en
+![english](https://github.com/dota2tools/dtrspnsy/blob/master/r.svg)
 
+## ru
+![russian](https://github.com/dota2tools/dtrspnsy/blob/master/rRU.svg)
 # Examples 
 `dtrspnsy`  English replics with substring search 
 
